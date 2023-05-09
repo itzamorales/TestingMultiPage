@@ -1,3 +1,1 @@
 streamlit run [home]
-
-"WELCOME"
