@@ -30,6 +30,7 @@ import glob
 #Changed note duration & pixels to number pickers
 #Changed a check boxes to Radio option (tried to do both, but they had the same key, so I wasn't able to get them both). 
 #Changed a check box into a dropdown option instead.
+#added home page, about page and final project page. 
 
 
 def get_piano_notes():   
