@@ -1,1 +1,1 @@
-streamlit run [about]
+streamlit run [home]
